@@ -2,7 +2,7 @@
 
 [![Generic badge](https://img.shields.io/badge/LinkedIn-japkeeratsingh-blue.svg)](https://www.linkedin.com/in/japkeeratsingh/)
 [![Generic badge](https://img.shields.io/badge/Email-japkeerat21@gmail.com-red.svg)](mailto:japkeerat21@gmail.com)
-[![Generic badge](https://img.shields.io/badge/Blog-japkeerat21.pythonanywhere.com-green.svg)](japkeerat21.pythonanywhere.com)
+[![Generic badge](https://img.shields.io/badge/Blog-japkeerat21.pythonanywhere.com-green.svg)](http://japkeerat21.pythonanywhere.com)
 
 
 My name? See on the left panel.
