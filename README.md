@@ -1,30 +1,23 @@
-### Hi there 👋
+![](https://cdn.pixabay.com/photo/2017/02/20/14/18/technology-2082642_1280.jpg)
+
+### Hi there, I am Japkeerat Singh 👋
 
 [![Generic badge](https://img.shields.io/badge/LinkedIn-japkeeratsingh-blue.svg)](https://www.linkedin.com/in/japkeeratsingh/)
 [![Generic badge](https://img.shields.io/badge/Email-japkeerat21@gmail.com-red.svg)](mailto:japkeerat21@gmail.com)
 [![Generic badge](https://img.shields.io/badge/Blog-japkeerat21.pythonanywhere.com-green.svg)](http://japkeerat21.pythonanywhere.com)
 
 
-My name? See on the left panel.
+Currently, I am a Machine Learning Data Engineer at [@BlueOptima](https://www.blueoptima.com).
 
-What do I do? I leverage the costliest resource of the 21st century to extract information using state of the art technologies and build highly efficient black boxes (read Machine Learning/Deep Learning models).
-
-My top 5 skills (in no particular order) are
+I am skilled in
 * Python
-* Machine Learning
+* Machine Learning Algorithms
 * Deep Learning (PyTorch)
 * Natural Language Processing
+* Data Exploration
 * Tableau
 
 
----
-
-Current Job Role: **Machine Learning Data Engineer**
-
-Current Employer: **BlueOptima**
-
----
-
-Have you seen my projects before? If not, checkout [KeyLess Abstracts](https://github.com/Japkeerat/Keyless-Abstracts) which I am currently working on as a side project!
-
-
+I sometimes participate in Hackathons and Data Science competitions. My notable performances at these competitions include
+* 4th in [Janata hack Computer Vision Hackathon](https://datahack.analyticsvidhya.com/contest/janatahack-computer-vision-hackathon) (10146 registered candidates) held on May 5, 2020.
+* Top 25 finish in Honeywell Power of Connected Hackathon (~2200 team registrations) held on Sept 29, 2018. (Built a NLP product that could query the Database without writing SQL)
