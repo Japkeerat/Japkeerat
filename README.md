@@ -21,3 +21,5 @@ I am skilled in
 I sometimes participate in Hackathons and Data Science competitions. My notable performances at these competitions include
 * 4th in [Janata hack Computer Vision Hackathon](https://datahack.analyticsvidhya.com/contest/janatahack-computer-vision-hackathon) (10146 registered candidates) held on May 5, 2020.
 * Top 25 finish in Honeywell Power of Connected Hackathon (~2200 team registrations) held on Sept 29, 2018. (Built a NLP product that could query the Database without writing SQL)
+
+[![Japkeerat's github stats](https://github-readme-stats.vercel.app/api?username=Japkeerat&show_icons=True)](https://github.com/Japkeerat/github-readme-stats)
