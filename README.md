@@ -1,6 +1,6 @@
 ![](https://cdn.pixabay.com/photo/2017/02/20/14/18/technology-2082642_1280.jpg)
 
-### Hi there, I am Japkeerat Singh 👋
+### Hi there, I am Japkeerat Singh 👋 ![counter](https://enzm4mldxi9uqgb.m.pipedream.net)
 
 [![Generic badge](https://img.shields.io/badge/LinkedIn-japkeeratsingh-blue.svg)](https://www.linkedin.com/in/japkeeratsingh/)
 [![Generic badge](https://img.shields.io/badge/Email-japkeerat21@gmail.com-red.svg)](mailto:japkeerat21@gmail.com)
