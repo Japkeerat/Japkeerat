@@ -4,6 +4,7 @@
 [![Generic badge](https://img.shields.io/badge/Email-japkeerat21@gmail.com-red.svg)](mailto:japkeerat21@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/Japkeerat?style=social)
 
+
 Currently, I am working as Machine Learning Data Engineer at [BlueOptima](https://blueoptima.com)
 
 My skills include
@@ -18,7 +19,9 @@ The tools I ❤️ to work with are
 - Optuna 
 - MLFlow
 - Scikit-Learn
+- LightGBM
 - Keras
+- HuggingFace
 - Apache Superset
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Japkeerat&show_icons=true&count_private=true)
@@ -39,4 +42,4 @@ During the second half of junior year and the first half of senior year, I worke
 Since then, I have been working with BlueOptima, initially as an intern for the first six months, as a Machine Learning and Data Engineer working on a research problem of detecting Vulnerabilities in the Source Code.
 
 
-PS: As a hobby, I seldom write fiction and poetry. I am enthusiastic about Businesses and Startups and I recently started a Podcast on the same with a friend called [Let's Discuss Business](https://open.spotify.com/show/7zJO77Ba17NbAAutG7W03L?si=3Q5S0zV-RIGXREnF6qPyRQ).
+PS: As a hobby, I seldom write fiction and poetry. I am enthusiastic about Businesses and Startups and I recently started a Podcast on the same, with a friend, called [Let's Discuss Business](https://open.spotify.com/show/7zJO77Ba17NbAAutG7W03L?si=3Q5S0zV-RIGXREnF6qPyRQ).
