@@ -31,4 +31,4 @@ I am also the author of [The Machine Mindset](machinemindset.substack.com) newsl
 [![Newsletter](https://img.shields.io/badge/NEWSLETTER-THEMACHINEMINDSET-orange?style=for-the-badge&logo=substack)](https://machinemindset.substack.com)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Japkeerat&theme=one-dark-pro&fire=EB5454)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=Japkeerat&theme=one-dark-pro&fire=EB5454)
