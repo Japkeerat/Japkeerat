@@ -25,6 +25,7 @@ I am also the author of [The Machine Mindset](machinemindset.substack.com) newsl
 [![iMessage](https://img.shields.io/badge/iMessage-+917889192903-white?style=for-the-badge&logo=apple)]()
 [![Telegram](https://img.shields.io/badge/TELEGRAM-JAPKEERAT-yellow?style=for-the-badge&logo=telegram)](https://t.me/japkeerat)
 [![Twitter](https://img.shields.io/badge/TWITTER-JAPKEERATS-blue?style=for-the-badge&logo=twitter)](https://twitter.com/JapkeeratS/)
+[![Kaggle](https://img.shields.io/badge/kaggle-japkeeratsingh-blue?style=for-the-badge&logo=kaggle)](https://kaggle.com/japkeeratsingh)
 
 ## 📚 My Writings
 [![Blog](https://img.shields.io/badge/BLOG-JAPKEERATSINGH.COM-blueviolet?style=for-the-badge)](https://japkeeratsingh.com/articles)
