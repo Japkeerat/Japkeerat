@@ -6,16 +6,18 @@ I am also the author of [The Machine Mindset](machinemindset.substack.com) newsl
 
 ## ✅ My Skills
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-27157E?style=for-the-badge)
 ![ETL Pipelines](https://img.shields.io/badge/ETL-4B8BBE?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-27157E?style=for-the-badge)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-DB221A?style=for-the-badge)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-14244F?style=for-the-badge)
 ![Snowflake](https://img.shields.io/badge/Snowflake-218BD4?style=for-the-badge)
 ![Metabase](https://img.shields.io/badge/Metabase-4180DB?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F5862C?style=for-the-badge)
 ![Natural Language Processing](https://img.shields.io/badge/Natural_Language_Processing-EDBE1E?style=for-the-badge)
-![Machine Learning Operations](https://img.shields.io/badge/Machine_Learning_Operations-2ea44f?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS_(Sagemaker,_S3)-FE9A17?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS_(Sagemaker,_S3,_RDS,_DynamoDB)-FE9A17?style=for-the-badge)
 ![Azure](https://img.shields.io/badge/Azure_(AzureML)-1491EB?style=for-the-badge)
+![Machine Learning Operations](https://img.shields.io/badge/Machine_Learning_Operations_(Drift_Monitoring,_Productionisation,_Feature_Stores,_CI/CD,_Automations)-2ea44f?style=for-the-badge)
 
 ## 📫 How to reach me:
 [![Email](https://img.shields.io/badge/EMAIL-JAPKEERAT@JAPKEERATSINGH.COM-GREEN?style=for-the-badge&logo=gmail)](mailto:japkeerat@japkeeratsingh.com)
