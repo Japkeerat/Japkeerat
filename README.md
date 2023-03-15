@@ -19,6 +19,7 @@ I am also the author of [The Machine Mindset](machinemindset.substack.com) newsl
 ![Natural Language Processing](https://img.shields.io/badge/Natural_Language_Processing-EDBE1E?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS_(Sagemaker,_S3,_RDS,_DynamoDB)-FE9A17?style=for-the-badge)
 ![Azure](https://img.shields.io/badge/Azure_(AzureML)-1491EB?style=for-the-badge)
+![MLFlow](https://img.shields.io/badge/MLFlow-39BADE?style=for-the-badge)
 ![Machine Learning Operations](https://img.shields.io/badge/Machine_Learning_Operations_(Drift_Monitoring,_Productionisation,_Feature_Stores,_CI/CD,_Automations)-2ea44f?style=for-the-badge)
 
 ## 📫 How to reach me:
