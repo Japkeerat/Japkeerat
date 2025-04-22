@@ -23,10 +23,10 @@ I am a Full Stack Data Scientist // I help companies make $$$ by building AI-cen
 ![Machine Learning Operations](https://img.shields.io/badge/Machine_Learning_Operations_(Drift_Monitoring,_Productionisation,_Feature_Stores,_CI/CD,_Automations)-2ea44f?style=for-the-badge)
 
 ## 📫 How to reach me:
-[![Email](https://img.shields.io/badge/EMAIL-JAPKEERAT@JAPKEERATSINGH.COM-GREEN?style=for-the-badge&logo=gmail)](mailto:japkeerat@japkeeratsingh.com)
+[![Email](https://img.shields.io/badge/EMAIL-JAPKEERAT21@GMAIL.COM-GREEN?style=for-the-badge&logo=gmail)](mailto:japkeerat21@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LINKEDIN-JAPKEERATSINGH-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/japkeeratsingh)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-+917889192903-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+917889192903)
-[![iMessage](https://img.shields.io/badge/iMessage-+917889192903-white?style=for-the-badge&logo=apple)]()
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-+17802719450-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+17802719450)
+[![iMessage](https://img.shields.io/badge/iMessage-+17802719450-white?style=for-the-badge&logo=apple)]()
 [![Twitter](https://img.shields.io/badge/TWITTER-JAPKEERATS-blue?style=for-the-badge&logo=twitter)](https://twitter.com/JapkeeratS/)
 [![Kaggle](https://img.shields.io/badge/kaggle-japkeeratsingh-blue?style=for-the-badge&logo=kaggle)](https://kaggle.com/japkeeratsingh)
 
